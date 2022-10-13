@@ -1,3 +1,3 @@
 package handlers
 
-func Get(w http.ResponseWr)
+func Get(w http.ResponseWritter)
