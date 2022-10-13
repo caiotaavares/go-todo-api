@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/353solutions/nlp/models"
-	"github.com/go-chi/chi"
+	"github.com/go-chi/chi/v5"
 )
 
 func List(w http.ResponseWriter, r *http.Request) {
